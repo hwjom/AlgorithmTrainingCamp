@@ -1,2 +1,2 @@
 # AlgorithmTrainingCamp
-极客时间算法训练营作业
+算法刷题记录
