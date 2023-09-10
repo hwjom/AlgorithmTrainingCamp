@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# 忽略图片
+*.img
+*.png
+*.jpg
+*.md
+*.iml
+*.xml
+*.pdf
+*.xmind
+/.idea
