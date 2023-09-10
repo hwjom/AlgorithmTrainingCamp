@@ -1,4 +1,4 @@
-//测试更改111
+//测试更改222
 var mergeTwoLists = function(list1, list2) {
     if(!list1) return list2;
     else if(!list2) return list1;
